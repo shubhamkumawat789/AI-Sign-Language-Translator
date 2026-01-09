@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## 📧 Contact
-**Project Lead:** Shubham  
-[GitHub Profile](https://github.com/shubham) | [LinkedIn](https://linkedin.com/in/shubham)
+**Project Lead:** Shubham Kumawat
+[GitHub Profile](https://github.com/shubhamkumawat789) | [LinkedIn](https://linkedin.com/in/shubham)
 
 *Built with ❤️ to empower the Sign Language community.*

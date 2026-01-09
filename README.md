@@ -1,5 +1,5 @@
 # 🤟 AI Sign Language Translator (ISL & ASL)
-![AI Sign Language Translator Hero](ai_sign_language_translator_hero.png)
+![AI Sign Language Translator Hero](ai_sign_language_translator_hero.pn)
 
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)

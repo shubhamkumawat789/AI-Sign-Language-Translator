@@ -11,11 +11,6 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-Holistic-brightgreen.svg)](https://mediapipe.dev/)
 [![Streamlit](https://img.shields.io/badge/Interface-Streamlit-red.svg)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Deployment-Docker-blue.svg)](https://www.docker.com/)
-![Visionary AI Banner](https://img.shields.io/badge/Status-Active-brightgreen)
-![Version](https://img.shields.io/badge/Version-2.0-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-yellow)
-![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B)
-![AI-Engine](https://img.shields.io/badge/Neural_Engine-MediaPipe_|_TensorFlow-blueviolet)
 
 > **Bridging the Communication Gap:** A state-of-the-art, real-time bidirectional translator that converts Sign Language gestures into text and audible speech using Computer Vision and Deep Learning.
 

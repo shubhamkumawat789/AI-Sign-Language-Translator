@@ -1,5 +1,4 @@
 # 🤟 AI Sign Language Translator (ISL & ASL)
-![AI Sign Language Translator Hero](ai_sign_language_translator_hero.pn)
 
 ![Visionary AI Banner](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Version](https://img.shields.io/badge/Version-2.0-blue)
